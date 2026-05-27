@@ -52,7 +52,7 @@ Explore my work:
 I'd love to collaborate and chat! Feel free to reach out:
 
 - 📧 **Email**: [magarbimal47@gmail.com](mailto:magarbimal47@gmail.com)
-- 💼 **LinkedIn**: [dilbdr](https://www.linkedin.com/in/dilbdr/)
+- 💼 **LinkedIn**: [dilbdr](https://www.linkedin.com/in/DilBdrDhenga/)
 - 🌐 **Portfolio**: [DilBdrDhenga](https://dilbdrdhenga.vercel.app/)
 
 ---
