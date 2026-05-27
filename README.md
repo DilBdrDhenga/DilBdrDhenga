@@ -29,16 +29,6 @@ Explore my work:
 ⚛️ Create interactive and responsive UIs with React
 🔧 Write clean, maintainable, and scalable code
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilBdrDhenga&theme=radical&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilBdrDhenga&theme=radical&layout=compact)
-
-</div>
-
 ## 🎯 Current Goals
 
 - Building production-ready full stack applications
